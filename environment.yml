@@ -1,4 +1,4 @@
-name: lipophilicity-env
+name: HW4-fp-env
 channels:
   - conda-forge
   - defaults
