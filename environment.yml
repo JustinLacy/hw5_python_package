@@ -1,0 +1,16 @@
+name: lipophilicity-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - rdkit
+  - pandas
+  - numpy
+  - scikit-learn
+  - joblib
+  - matplotlib
+  - notebook
+  - pip
+  - pip:
+      - tqdm
